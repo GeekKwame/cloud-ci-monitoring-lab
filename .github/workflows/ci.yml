@@ -32,4 +32,4 @@ jobs:
 
       # Step 4: Optional: Echo success message
       - name: Build Success
-        run: echo "CI Pipeline executed successfully!"
+        run: echo "CI Pipeline executed successfully"
